@@ -3,13 +3,13 @@
 <h2>👨‍💻 My Infosec Projects:</h2>
 
   - [Active Directory Home Lab ] (https://github.com/meed12)
-- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
+
   
 
 <h2>👨‍💻 Certification Study Notes</h2>
 
-- [CCNA Notes](https://github.com/meed12)
-- [AWS Cloud Practicioner Notes](https://github.com/meed12)
+  - [CCNA Notes](https://github.com/meed12)
+  - [AWS Cloud Practicioner Notes](https://github.com/meed12)
 
 
 
