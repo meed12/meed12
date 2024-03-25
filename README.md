@@ -1,4 +1,4 @@
-<h1>Hi, I'm Hameeda an infosec 🤓 
+<h1>Hi, I'm Hameeda an infosec nerd 🤓 
 
 <h2>👨‍💻 My Infosec Projects:</h2>
 
