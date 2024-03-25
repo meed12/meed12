@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 My Infosec Projects:</h2>
 
-  - [Active Directory Home Lab](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Active Directory Home Lab](https://github.com/meed12/Active-Directory-Lab)
 
 <h2>👨‍💻 Certification Study Notes</h2>
 
